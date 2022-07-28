@@ -22,6 +22,10 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height='45' width='45'  />
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" height='52' width='52' />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height='45' width='45'/>
+             
+             
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdCliffe)](https://git.io/streak-stats)
+
 <!--
 - 🔭 I’m currently working on ...
 
