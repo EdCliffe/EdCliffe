@@ -1,10 +1,13 @@
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
-### Hi there 👋
+### Hello and Welcome 👋
 
-- 👨‍🎓 I have just completed the AiCore data engineering training program
+👨‍🎓 I have just completed the AiCore data engineering training program
 - 🛠 Including projects on cloud-hosted webscraping, and stream/batch processing of user-post events with pyspark.
-- Feel free to contact me on [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/edward-cliffe-83a56a222/)
+
+- 🌋 With an Msc in Exploration Geophysics, and several years working in oil and gas, I am currently transitioning into data.
+
+ Find out more, and contact me on [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/edward-cliffe-83a56a222/)
 
 ### Technology Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" height='50' width='50' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='45' width='45'  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height='45' width='45'/> 
